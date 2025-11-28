@@ -1,0 +1,15 @@
+# 忽略数据文件（避免上传个人消费数据）
+expenses.csv
+
+# Python 缓存文件夹
+__pycache__/
+
+# Python 编译文件
+*.pyc
+
+# 虚拟环境（如果你使用 Python venv）
+venv/
+.env/
+
+# VSCode 配置（可选）
+.vscode/
